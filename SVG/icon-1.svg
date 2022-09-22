@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="119.164" height="129.996" viewBox="0 0 119.164 129.996">
+  <g id="Group_1" data-name="Group 1" transform="translate(-696 -1800)">
+    <g id="Touch_gesture_double_tap" data-name="Touch gesture, double tap" transform="translate(696 1800)">
+      <path id="Path_5" data-name="Path 5" d="M114.409,74.52l-29.415-8.4V39.582a16.247,16.247,0,1,0-32.494,0V86.368L47.728,81.6A16.248,16.248,0,1,0,24.75,104.58l27.085,27.083h62.158L122.7,88.12A11.985,11.985,0,0,0,114.409,74.52Zm-9.3,46.309H56.329L32.41,96.92a5.419,5.419,0,1,1,7.67-7.658l23.255,23.253V39.582a5.414,5.414,0,1,1,10.827,0V74.291l38.081,10.876Z" transform="translate(-9.168 -1.668)"/>
+      <path id="Path_6" data-name="Path 6" d="M29.555,62.424a37.915,37.915,0,1,1,70.055,0L89.6,58.272a27.085,27.085,0,1,0-50.024,0Z" transform="translate(-5 -10)"/>
+      <path id="Path_7" data-name="Path 7" d="M27.88,23.446a48.713,48.713,0,0,0,0,37.307L17.871,64.9a59.525,59.525,0,0,1,0-45.594Z" transform="translate(-13.333 -4.187)"/>
+      <path id="Path_8" data-name="Path 8" d="M87.723,64.9a59.542,59.542,0,0,0,0-45.6L77.715,23.442a48.725,48.725,0,0,1,0,37.312Z" transform="translate(26.902 -4.188)"/>
+    </g>
+  </g>
+</svg>
